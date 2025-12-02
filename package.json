@@ -1,9 +1,1 @@
-{
-  "name": "my-react-app",
-  "version": "1.0.0",
-  "dependencies": {
-    "react": "latest",
-    "react-dom": "latest",
-    "react-router-dom": "latest"
-  }
-}
+{ "name":"my-react-app","version":"1.0.0","dependencies":{"react":"latest","react-dom":"latest","react-router-dom":"latest"}}

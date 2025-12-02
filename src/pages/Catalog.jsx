@@ -1,1 +1,1 @@
-export default function Catalog(){ const items=['Laptop','Phone','Headphones','Keyboard','Monitor']; return(<div><h1 className='text-3xl font-bold mb-4'>Catalog</h1><ul className='grid grid-cols-1 md:grid-cols-3 gap-4'>{items.map((item,i)=>(<li key={i} className='bg-white p-4 rounded-xl shadow text-center text-xl'>{item}</li>))}</ul></div>);}
+export default function Catalog(){const items=['Laptop','Phone','Headphones','Keyboard','Monitor'];return(<div><h1 className='text-3xl font-bold mb-4'>Catalog</h1><ul>{items.map((i,x)=>(<li key={x}>{i}</li>))}</ul></div>);}
