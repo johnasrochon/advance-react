@@ -1,0 +1,1 @@
+export default function About(){ return(<div><h1 className='text-3xl font-bold mb-4'>About Us</h1><p className='text-lg max-w-2xl'>We are committed to delivering quality products with exceptional service.</p></div>);}
