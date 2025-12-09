@@ -1,1 +1,1 @@
-console.log('main loaded')
+console.log('main');
